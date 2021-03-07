@@ -1,0 +1,6 @@
+{
+  "game":"Wii Sports",
+  "level":"Boxing",
+  "asset_dir":"{GAME_ROOT}/assets/boxing",
+  "module":"{GAME_ROOT}/scripts/boxing.py"
+}
