@@ -2,5 +2,11 @@
   "game":"Wii Sports",
   "level":"Boxing",
   "asset_dir":"{GAME_ROOT}/assets/boxing",
-  "module":"{GAME_ROOT}/scripts/boxing.py"
-}
+  "module":"{GAME_ROOT}/scripts/boxing.py",
+  "models":[
+    {
+      "pos":[0,0,0],
+      "scale":[1,1,1],
+      "name":"boxing_gym"
+    }
+  ]
